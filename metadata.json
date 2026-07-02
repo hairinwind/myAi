@@ -1,0 +1,6 @@
+{
+  "name": "网页翻译助手",
+  "description": "输入 URL 即可过滤广告并将网页正文自动翻译为中文的 GPT 风格对话助手",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
